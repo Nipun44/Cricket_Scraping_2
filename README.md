@@ -15,3 +15,6 @@ This data analytics project focuses on scraping and analyzing cricket teams' tou
 8. Type 0 if the team bats first, or 1 if the team bats second in the given section 
 9. Run the notebook cells to initiate data scraping and perform the analytics.
 10. You can save the data to a CSV file after run it.
+
+
+The cricket data used in this project is sourced from ESPNcricinfo, a leading sports website for cricket enthusiasts.
